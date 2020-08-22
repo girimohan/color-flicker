@@ -4,4 +4,4 @@ This is a demo for the simple color flicker.
 I have used simple Javascript, css and HTML.
 This looks cool.
 
-[link](https://girimohan.github.io/)
+[Check this out](https://girimohan.github.io/)
